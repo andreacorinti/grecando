@@ -1,14 +1,26 @@
 [
     {
-        "label": "About",
-        "url": "/about"
-    },
-    {
-        "label": "Categorie",
+        "label": "News",
         "url": "/tags"
     },
+    
     {
-        "label": "Trasferirsi in Grecia",
+        "label": "Documenti",
+        "url": "/tags/documenti"
+    },
+
+    {
+        "label": "Vacanze",
+        "url": "/tags"
+    },
+
+    {
+        "label": "Trasferirsi",
         "url": "/trasferirsi"
+    },
+
+    {
+        "label": "About",
+        "url": "/about"
     }
 ]
